@@ -10,6 +10,4 @@
 * ❤️ I love ...
 * ⚡ Fun fact: ...
 
-https://github.com/anuraghazra/github-readme-stats
-
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoloz&show_icons=true&theme=radical)
