@@ -14,3 +14,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoloz&layout=compact)
 
+![](https://komarev.com/ghpvc/?username=eduardoloz&style=flat-square)
