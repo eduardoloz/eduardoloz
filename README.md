@@ -12,5 +12,5 @@
 
 ![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoloz&show_icons=true&theme=radical)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoloz&hide_progress=true)
+![Most Used](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoloz&hide_progress=true)
 
