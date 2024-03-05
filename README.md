@@ -12,4 +12,4 @@
 
 https://github.com/anuraghazra/github-readme-stats
 
-[eduardoloz’s GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoloz&show_icons=true&theme=dracula)
+![Eduardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoloz&show_icons=true&theme=radical)
