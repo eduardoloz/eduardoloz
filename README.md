@@ -7,11 +7,11 @@
 <p align="center">
   <!-- GitHub Streak -->
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourUsername"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardoloz&theme=dracula"/>
   </a>
   <!-- GitHub Score (Assuming a general contributions widget) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=eduardoloz&show_icons=true&theme=radical"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=eduardoloz&show_icons=true&theme=dracula"/>
   </a>
 </p>
 
