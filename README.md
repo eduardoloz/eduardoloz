@@ -16,10 +16,12 @@
 
 </p>
 <!-- Most Used Languages -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoloz&layout=compact&theme=dracula"/>
+  </a>
+</p>
 
-<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoloz&layout=compact&theme=dracula"/>
-</a>
 
 ---
 
