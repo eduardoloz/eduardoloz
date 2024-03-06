@@ -2,7 +2,7 @@
 
 ---
 
-# Github Stats
+### Github Stats
 
 <p align="left">
   <!-- GitHub Score (Assuming a general contributions widget) -->
@@ -17,7 +17,7 @@
 </p>
 <!-- Most Used Languages -->
 
-<a align="left" href="https://github.com/anuraghazra/github-readme-stats">
+<a align="center" href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoloz&layout=compact&theme=dracula"/>
 </a>
 
