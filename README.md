@@ -1,7 +1,18 @@
 # Eduardo's Github Profile
+I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientist. I want to prusue academic research and learn how to problem solve
+
 
 ---
+### My Organizations
+- Simons Stem Scholar
+- Treasurer @ SBCS
+- Event Coordinator @ SHPE
+---
 
+### Contact Information
+<!-- Most Used Languages -->
+
+---
 ### Github Stats
 
 <p align="left">
@@ -21,8 +32,6 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoloz&layout=compact&theme=dracula"/>
   </a>
 </p>
-
-
 ---
 
 
