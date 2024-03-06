@@ -1,4 +1,4 @@
-# Eduardo's Github Profile
+# Eduardo Lozano's ABOUTME
 I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientist. I want to prusue academic research and learn how to problem solve
 
 
@@ -34,9 +34,3 @@ I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientis
 </p>
 ---
 
-
-
-
-![eduardoloz’s GitHub stats](https://github-readme-stats.vercel.app/api?username=eduardoloz&show_icons=true&theme=dracula)
-
-[](https://img.shields.io/badge/Python-blue)
