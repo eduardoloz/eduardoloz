@@ -17,7 +17,7 @@ I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientis
   <a href="mailto:eduardolozanoacademics@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-    <a href="eduardoloz.me">
+    <a href="[eduardoloz.me](https://www.eduardoloz.me/)">
     <img src="https://img.shields.io/badge/my%20personal%20website-8A2BE2?style=for-the-badge">
   </a>
 </p>
