@@ -32,5 +32,7 @@ I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientis
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardoloz&layout=compact&theme=dracula"/>
   </a>
 </p>
+
 ---
+
 
