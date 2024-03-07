@@ -10,7 +10,7 @@ I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientis
 ---
 
 ## Contact Information
-<p align="center">
+<p align="center" justify-content:"space-evenly">
   <a href="https://www.linkedin.com/in/eduardo-lozano-8999a5244/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
