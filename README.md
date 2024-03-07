@@ -15,7 +15,7 @@ I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientis
 ---
 ### Github Stats
 
-<p align="center">
+<p align="center", justify-content:"space-evenly">
   <!-- GitHub Score (Assuming a general contributions widget) -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=eduardoloz&show_icons=true&theme=dracula"/>
