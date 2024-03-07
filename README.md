@@ -4,8 +4,8 @@ I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientis
 
 ---
 ### My Organizations
-- Simons Stem Scholar
-- Treasurer @ SBCS
+- S1 @ [Simons Stem Scholar](https://www.stonybrook.edu/simonsscholars/)
+- Treasurer @ [SBCS](https://sbcs.io/)
 - Event Coordinator @ SHPE
 ---
 
