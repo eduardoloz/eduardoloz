@@ -1,5 +1,5 @@
 # Eduardo Lozano's ABOUTME
-I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientist. I want to prusue academic research and learn how to problem solve
+I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientist. I want to prusue academic research in computer science and have the goal of grad school as well as becoming an educator. I don't know what exactly what I want to specialize in but I am willing to learn more!
 
 
 ---
