@@ -1,5 +1,5 @@
 # Eduardo Lozano's ABOUTME
-I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientist. I want to prusue academic research in computer science and have the goal of grad school as well as becoming an educator. I don't know what exactly what I want to specialize in but I am willing to learn more!
+I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientist. I want to prusue academic research and learn how to problem solve
 
 
 ---
@@ -9,11 +9,13 @@ I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientis
 - Event Coordinator @ SHPE
 ---
 
-### Contact Information
-<!-- Most Used Languages -->
+## Contact Information
+<a href="https://www.linkedin.com/in/eduardo-lozano-8999a5244/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 ---
-### Github Stats
+## Github Stats
 
 <p align="center", justify-content:"space-evenly">
   <!-- GitHub Score (Assuming a general contributions widget) -->
