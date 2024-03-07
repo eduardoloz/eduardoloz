@@ -2,7 +2,7 @@
 I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientist. I want to prusue academic research and learn how to problem solve. I have interests in systems, modeling, and machine learning. Haven't currently done much with them, but I intend on learning a lot!
 
 ---
-### My Organizations
+## My Organizations
 - S1 @ [Simons Stem Scholar](https://www.stonybrook.edu/simonsscholars/)
 - Treasurer @ [SBCS](https://sbcs.io/)
 - Event Coordinator @ [SHPE](https://www.stonybrookshpe.org/)
