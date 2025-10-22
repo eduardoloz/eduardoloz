@@ -1,5 +1,7 @@
 # Eduardo Lozano's ABOUTME
-I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientist. I like problem solving and learning new things! I have interests in systems, modeling, and machine learning. Haven't currently done much with them, but I intend on learning a lot!
+I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientist. I love learning!
+
+Prev @ Amazon.
 
 ---
 ## My Organizations
