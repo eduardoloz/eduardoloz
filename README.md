@@ -6,8 +6,9 @@ Prev @ Amazon.
 ---
 ## My Organizations
 - S1 @ [Simons Stem Scholar](https://www.stonybrook.edu/simonsscholars/)
-- Treasurer @ [SBCS](https://sbcs.io/)
-- Event Coordinator @ [ColorStack](https://www.stonybrookshpe.org/)
+- Fromer Treasurer @ [SBCS](https://sbcs.io/)
+- VP @ sbcs.io now
+- Former Event Coordinator @ [ColorStack](https://www.stonybrookshpe.org/)
 ---
 
 ## Contact Information
