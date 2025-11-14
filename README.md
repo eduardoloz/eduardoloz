@@ -8,6 +8,7 @@ Prev @ Amazon & Prev @ CMU REUSE (very fun program HIGHLY recommend)
 - S1 @ [Simons Stem Scholar](https://www.stonybrook.edu/simonsscholars/)
 - Fromer Treasurer @ [SBCS](https://sbcs.io/)
 - VP @ sbcs.io now
+  - [My proudest achievement](https://sbcs.io/team)
 - Former Event Coordinator @ [ColorStack](https://www.stonybrookshpe.org/)
 ---
 
