@@ -1,7 +1,7 @@
 # Eduardo Lozano's ABOUTME
 I'm Eduardo Lozano, I am a Simons Stem Scholar and an aspiring computer scientist. I love learning!
 
-Prev @ Amazon.
+Prev @ Amazon & Prev @ CMU REUSE (very fun program highlighy recommend)
 
 ---
 ## My Organizations
